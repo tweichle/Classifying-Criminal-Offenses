@@ -8,6 +8,7 @@ This repository contains the prediction of more serious crimes using Chicago cri
 **Goals**
 
 - Using Chicago Police Department crime data from 2001 to present, summarize and examine crime statistics.
+
 - Build and train Classification models to predict index offenses (more serious crimes).
     - Compare performance of various classification techniques including logistic regression, random forests, and support vector machines.
     - Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
