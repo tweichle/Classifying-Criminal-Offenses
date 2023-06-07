@@ -1,6 +1,6 @@
 # Classifying-Criminal-Offenses
 ### Classification Application in Python Using scikit-learn
-(PySpark program included to show data exploration/manipulation and descriptive statistic analyses) 
+(PySpark program included to show data exploration/manipulation and descriptive statistics analyses) 
 
 This repository contains the prediction of more serious crimes using Chicago crime data accessed via Google BigQuery Storage API.
 
