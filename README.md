@@ -1,5 +1,5 @@
 # Classifying-Criminal-Offenses
-### Classification Application in Python Using scikit-learn
+### Classification Application in Python Using scikit-learn and TensorFlow-Keras
 (PySpark program included to show data exploration/manipulation and descriptive statistics analyses) 
 
 This repository contains the prediction of more serious crimes using Chicago crime data accessed via Google BigQuery Storage API.
@@ -10,6 +10,10 @@ This repository contains the prediction of more serious crimes using Chicago cri
 
 - Using Chicago Police Department crime data from 2001 to present, summarize and examine crime statistics.
 
-- Build and train Classification models to predict index offenses (more serious crimes).
-  - Compare performance of various classification techniques including logistic regression, random forests, support vector machines, and XGBoost.
-  - Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
+- Build and train Classification models to predict index offenses (more serious crimes) implementing the following approaches:
+  - Logistic Regression
+  - Random Forests Classification
+  - Support Vector Machines Classification
+  - XGBoost Classification
+  - Neural Networks Classification
+- Apply regularization and cross-validation techniques for model evaluation, selection, and optimization.
